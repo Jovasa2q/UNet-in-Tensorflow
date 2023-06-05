@@ -1,5 +1,4 @@
 # U-Net Implementation in TensorFlow
-
 <img src="assets/output.gif" width=1024 />
 
 Re implementation of U-Net in Tensorflow
